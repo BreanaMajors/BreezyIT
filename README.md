@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BreezyIT
-- 👀 I’m interested in Software Developing. 
-- 🌱 I’m currently learning IOS Developing.
-- 💞️ I’m looking to work for a company that specializes in IOS Development, as well as, creating my own apps.
+- 👀 I’m interested in Software Development. 
+- 🌱 I’m currently learning HTMl,CSS,Javascript.
 - 📫 Don't be afraid to reach out! Let's chat!
 
 <!---
