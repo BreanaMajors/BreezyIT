@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BreezyIT
-- 👀 I’m interested in Software Development. 
-- 🌱 I’m currently learning HTMl,CSS,Javascript.
+- 👀 I’m interested in Data. 
 - 📫 Don't be afraid to reach out! Let's chat!
 
 <!---
