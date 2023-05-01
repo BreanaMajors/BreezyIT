@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BreezyIT
-- 👀 I’m interested in Data. 
+- 👀 I’m interested in Software Development.
 - 📫 Don't be afraid to reach out! Let's chat!
 
 <!---
