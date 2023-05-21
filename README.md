@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @BreezyIT
-- 👀 I’m interested in Software Development.
-- 📫 Don't be afraid to reach out! Let's chat!
+- Hi, I’m Breana Majors who is obsessed with coding. 👋
+- Software Development is where my heart is at! 👀
+- If I am not learning within my career... I am outside gardening fruits and vegetables🪴
+- Don't be afraid to reach out! Let's chat! 📫 
 
 <!---
 BreezyIT/BreezyIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
