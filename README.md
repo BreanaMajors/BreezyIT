@@ -1,6 +1,6 @@
 - Hi, I’m Breana Majors who is obsessed with coding. 👋
 - Software Development is where my heart is at! 👀
-- If I am not learning within my career... I am outside gardening fruits and vegetables🪴
+- If I am not on my computer constantly learning. I am outside gardening fruits and vegetables🪴
 - Don't be afraid to reach out! Let's chat! 📫 
 
 <!---
